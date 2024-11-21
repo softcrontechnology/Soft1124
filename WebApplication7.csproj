@@ -371,6 +371,7 @@
     <Content Include="sitemap_wo.xml" />
     <Content Include="taCRM.aspx" />
     <Content Include="test.aspx" />
+    <Content Include="test2.aspx" />
     <Content Include="whatsappApi.aspx" />
     <Content Include="assets\img\banner.webp" />
     <Content Include="assets\img\bulk_sms\BestOTPSMSService_.webp" />
@@ -974,6 +975,13 @@
     </Compile>
     <Compile Include="test.aspx.designer.cs">
       <DependentUpon>test.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="test2.aspx.cs">
+      <DependentUpon>test2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="test2.aspx.designer.cs">
+      <DependentUpon>test2.aspx</DependentUpon>
     </Compile>
     <Compile Include="tnc.aspx.cs">
       <DependentUpon>tnc.aspx</DependentUpon>
