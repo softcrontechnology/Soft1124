@@ -241,22 +241,22 @@
                                             <li><a class="is-submenu" href="/bulk-sms-services"><i class="fa fa-angle-right"></i>Bulk SMS</a></li>
                                             <li><a class="is-submenu" href="/rcs-message"><i class="fa fa-angle-right"></i>RCS Messages</a></li>
                                             <li><a class="is-submenu" href="/bulk-voice-call-services"><i class="fa fa-angle-right"></i>Voice Broadcasting</a></li>
-                                            <li><a class="is-submenu" href="/social-media-marketing-services"><i class="fa fa-angle-right"></i>Social Media Marketing</a></li>
+                                            
                                         </ul>
                                         <ul class="col-lg-4 col-md-4 col-xs-12 link-list ">
                                             <li class="title">Marketing</li>
                                             <li><a class="is-submenu" href="/search-engine-optimization"><i class="fa fa-angle-right"></i>SEO</a></li>
                                             <li><a class="is-submenu" href="/ppc-google-adwords-services"><i class="fa fa-angle-right"></i>Pay Per Click</a></li>
-                                            <li><a class="is-submenu" href="/content-writing-services"><i class="fa fa-angle-right"></i>Content Writing</a></li>
-
-                                            <li><a class="is-submenu" href="/brand-marketing"><i class="fa fa-angle-right"></i>Brand Marketing</a></li>
+                                            <%--<li><a class="is-submenu" href="/content-writing-services"><i class="fa fa-angle-right"></i>Content Writing</a></li>--%>
+                                            <li><a class="is-submenu" href="/social-media-marketing-services"><i class="fa fa-angle-right"></i>Social Media Marketing</a></li>
+                                            <%--<li><a class="is-submenu" href="/brand-marketing"><i class="fa fa-angle-right"></i>Brand Marketing</a></li>--%>
                                         </ul>
                                         <ul class="col-lg-4 col-md-4 col-xs-12 link-list ">
                                             <li class="title">Solutions</li>
                                             <li><a class="is-submenu" href="/qms"><i class="fa fa-angle-right"></i>QMS</a></li>
                                             <li><a class="is-submenu" href="/erpSystem"><i class="fa fa-angle-right"></i>ERP System</a></li>
                                             <li><a class="is-submenu" href="/crmSolution"><i class="fa fa-angle-right"></i>CRM Solution</a></li>
-                                            <li><a class="is-submenu" href="/hrmSolution"><i class="fa fa-angle-right"></i>HRM Software</a></li>
+                                            <%--<li><a class="is-submenu" href="/hrmSolution"><i class="fa fa-angle-right"></i>HRM Software</a></li>--%>
                                             <%--<li><a class="is-submenu" href="/graphic-designing-services"><i class="fa fa-angle-right"></i>Graphic Designing</a></li>--%>
                                             <%--<li><a class="is-submenu" href="/web-development"><i class="fa fa-angle-right"></i>Web development</a></li>--%>
                                         </ul>
@@ -266,7 +266,7 @@
                                             <li class="title">Designing</li>
                                             <%--<li><a class="is-submenu" href="/graphic-designing-services"><i class="fa fa-angle-right"></i>Graphic Designing</a></li>--%>
                                             <li><a class="is-submenu" href="/website-designing"><i class="fa fa-angle-right"></i>Website Designing</a></li>
-                                            <li><a class="is-submenu" href="/web-development"><i class="fa fa-angle-right"></i>Web Development</a></li>
+                                            <%--<li><a class="is-submenu" href="/web-development"><i class="fa fa-angle-right"></i>Web Development</a></li>--%>
                                             <li><a class="is-submenu" href="/cms-website-design"><i class="fa fa-angle-right"></i>CMS Website Design</a></li>
                                             <li><a class="is-submenu" href="/e-commerce"><i class="fa fa-angle-right"></i>E-Commerce Solution</a></li>
 
@@ -275,11 +275,11 @@
                                         <ul class="col-lg-4 col-md-4 col-xs-12 link-list ">
                                             <li class="title">Development</li>
                                             <%--<li><a class="is-submenu" href="/graphic-designing-services"><i class="fa fa-angle-right"></i>Graphic Designing</a></li>--%>
-                                            <%--<li><a class="is-submenu" href="/web-development"><i class="fa fa-angle-right"></i>Web development</a></li>--%>
-                                            <li><a class="is-submenu" href="/business-automation"><i class="fa fa-angle-right"></i>Business Automation</a></li>
+                                            <li><a class="is-submenu" href="/web-development"><i class="fa fa-angle-right"></i>Web development</a></li>
+                                            <%--<li><a class="is-submenu" href="/business-automation"><i class="fa fa-angle-right"></i>Business Automation</a></li>--%>
                                             <li><a class="is-submenu" href="/software-development"><i class="fa fa-angle-right"></i>Software Development</a></li>
                                             <li><a class="is-submenu" href="/mobile-app-development-services"><i class="fa fa-angle-right"></i>Mobile App Development</a></li>
-                                            <li><a class="is-submenu" href="/hybrid-app-development"><i class="fa fa-angle-right"></i>Hybrid App Development</a></li>
+                                            <%--<li><a class="is-submenu" href="/hybrid-app-development"><i class="fa fa-angle-right"></i>Hybrid App Development</a></li>--%>
                                         </ul>
 
                                         <ul class="col-lg-4 col-md-4 col-xs-12 link-list ">
@@ -288,7 +288,7 @@
                                             <%--<li><a class="is-submenu" href="/web-development"><i class="fa fa-angle-right"></i>Web development</a></li>--%>
                                             <li><a class="is-submenu" href="/3rdPartyAPI"><i class="fa fa-angle-right"></i>3rd Party API</a></li>
                                             <li><a class="is-submenu" href="/api-integrations"><i class="fa fa-angle-right"></i>API Integrations</a></li>
-                                            <li><a class="is-submenu" href="/payment-gateway"><i class="fa fa-angle-right"></i>Payment Gateway</a></li>
+                                            <%--<li><a class="is-submenu" href="/payment-gateway"><i class="fa fa-angle-right"></i>Payment Gateway</a></li>--%>
                                             <li><a class="is-submenu" href="/wpOfficalAPI"><i class="fa fa-angle-right"></i>Whatsapp Official API</a></li>
                                         </ul>
                                     </div>
