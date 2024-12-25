@@ -3,7 +3,7 @@
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 
-<title>About us | Web Development and Digital Marketing Company</title>
+<title>Softcron - IT Consultancy & Digital Marketing Experts</title>
     <meta name="description" content="Softcron Technology - Best digital marketing, web design & SEO services in India for optimal business growth" />
     <meta name="keywords" content="Best Digital Marketing Agency,Web Designing Services,SEO Services,Top Digital Marketing Solutions,Professional Web Development,Affordable SEO Packages" />
           
