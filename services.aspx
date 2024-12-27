@@ -1,12 +1,9 @@
 ﻿<%@ Page Language="C#" MasterPageFile="~/MasterPage.Master" AutoEventWireup="true" CodeBehind="services.aspx.cs" Inherits="WebApplication7.services" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
-   <title>Softcron | Best Digital Marketing Services Provider in India</title>
-<meta name="description" content="Softcron Technology, India's leading digital marketing agency, offering expert services for online promotion, SEO, Social Media Marketing Solutions and web service" />
-<meta name="keywords" content="Digital Marketing Services,Online Promotion Solutions,
-Leading Digital Marketing Agency,Expert Digital Marketing Strategies,Web Development Expertise,
-Professional Website Designing,Effective SEO Services,Result-driven Digital Campaigns,
-Social Media Marketing Solutions,E-commerce Website Development" />
+   <title>Innovative Web Development | Digital Marketing Services</title>
+<meta name="description" content="Discover cutting-edge web development, digital marketing, and IT consulting services designed to help businesses grow, innovate, and succeed in the digital world" />
+<meta name="keywords" content="Web Development Agency , App Development Agency, Best Digital Marketing Service In India, Best WEB Development Service In India, Bulk SMS Service In India,  " />
 
     <link rel="canonical" href="https://www.softcron.com/services " />
 </asp:Content>
