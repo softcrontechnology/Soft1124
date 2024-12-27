@@ -3,9 +3,9 @@
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 
-<title>Softcron - IT Consultancy & Digital Marketing Experts</title>
-    <meta name="description" content="Softcron Technology - Best digital marketing, web design & SEO services in India for optimal business growth" />
-    <meta name="keywords" content="Best Digital Marketing Agency,Web Designing Services,SEO Services,Top Digital Marketing Solutions,Professional Web Development,Affordable SEO Packages" />
+<title>Softcron | Leading IT Consulting & Web Development Experts</title>
+    <meta name="description" content=" we specialize in IT consulting and web development services that empower businesses to thrive in the digital world. Our expert team delivers customized solutions for growth and innovation."  />
+    <meta name="keywords" content="Best IT Services In India, Web Development Agency in India, Digital Marketing company In India, SEO Service Agency, Web Development Service Agency In India " />
           
     <link rel="canonical" href="https://www.softcron.com/about-us">
 
